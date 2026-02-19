@@ -3,8 +3,8 @@ public class Memory {
 
         int a = 10;
         int b = 5;
-        System.out.print(a);
-        System.out.print("b");
+        System.out.println(a);
+        System.out.println("b");
         System.out.println(b);
     }
 }
