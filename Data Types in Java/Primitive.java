@@ -3,5 +3,16 @@ public class Primitive {
 
         byte b = 8;
         System.out.println(b);
+        char ch = 'a';
+        System.out.println(ch);
+        boolean var = false;
+        float price = 5;
+        double a = 9898.2;
+        System.out.println(price);
+        int number = 25;
+        long big = 5634856;
+        System.out.println(number);
+        short n = 240;
+        System.out.println(n);
     }
 }
