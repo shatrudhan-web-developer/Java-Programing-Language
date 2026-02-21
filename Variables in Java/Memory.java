@@ -6,5 +6,8 @@ public class Memory {
         System.out.println(a);
         System.out.println("b");
         System.out.println(b);
+
+        String name = "Noor Stark";
+        System.out.print(name);
     }
 }
