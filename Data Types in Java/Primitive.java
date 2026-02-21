@@ -15,4 +15,4 @@ public class Primitive {
         short n = 240;
         System.out.println(n);
     }
-}
+} 
