@@ -10,5 +10,6 @@ public class String_to_int {
         int number2 = ch2;
 
         System.out.println(number);
+        System.out.println(number2);
     }
 }
