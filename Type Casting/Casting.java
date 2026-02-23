@@ -7,6 +7,6 @@ public class Casting {
         float number = 99.999f;
         int number2 = (int) number;
 
-        System.out.println(number);
+        System.out.println(number2);
     }
 }
