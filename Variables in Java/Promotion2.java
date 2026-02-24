@@ -21,6 +21,9 @@ public class Promotion2 {
     public static void main(String args[]) {
 
         byte b = 5;
-        b = b*2;
+        b = (byte)(b*2);            // ===> Right
+        // b = b*2;                 // ===> Wrong
+
+        System.out.println(b);
     }
 }
