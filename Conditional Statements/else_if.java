@@ -12,7 +12,7 @@ public class else_if {
             System.out.println("Teenger");
         }
         else {
-            System.out.println("Child");
+            System.out.println("Child"); 
         }
     }
 }
