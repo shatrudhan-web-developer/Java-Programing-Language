@@ -7,11 +7,11 @@ public class PassFail {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter marks = ");
+        System.out.print("Enter marks = ");
         int marks = sc.nextInt();
 
-        String Result = (marks <= 30) ? "Pass" : "Fail";
+        String Result = (marks <= 30) ? "Fail" : "Pass";
 
-        System.out.println("This student is " +Result);
+        System.out.println("This student is " + Result);
     }
 }
