@@ -10,10 +10,11 @@ public class MakingCalculator {
         System.out.print("Enter first number = ");
         int number1 = sc.nextInt();
 
-        System.out.println("Enter second number = ");
+        System.out.print("Enter second number = ");
         int number2 = sc.nextInt();
 
-        char Operator = sc.next().charAt(0)
+        System.out.print("Enter Operator = ");
+        char Operator = sc.next().charAt(0);
 
         switch(Operator) {
             case '+' : System.out.println("Addition = " + (number1 + number2));
