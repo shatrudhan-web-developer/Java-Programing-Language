@@ -6,7 +6,10 @@ public class Sum {
         // Print sum of first n natural numbers.
 
         Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter number = ");
         int n = sc.nextInt();
+        
         int sum = 0;
         int i = 1;
 
