@@ -7,7 +7,7 @@ public class Infinitive {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter number for print = ");
+        System.out.print("Here counting from 1 to ");
         int number = sc.nextInt();
 
         int i = 1;
